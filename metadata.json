@@ -1,0 +1,6 @@
+{
+  "name": "Printing Service Scheduler – FCFS Simulator",
+  "description": "Interactive First-Come First-Served (FCFS) printer scheduling simulator for CS25C11 Operating Systems (Kernel Wars contest) with Gantt charts, animated printer queue, and real-time step visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
